@@ -54,6 +54,8 @@
 
 .round-image {
   margin-bottom: 10px;
-  border-radius: 100%;
+  border-radius: 50%;
   overflow: hidden;
+  width: 200px; /* Defina a largura desejada */
+  height: 200px; /* Defina a altura desejada */
 }
