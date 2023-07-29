@@ -1192,7 +1192,7 @@ input[type="radio"] + label:before {
   text-decoration: none;
   border-bottom: none;
   position: relative; 
-width: 100px;}
+}
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
